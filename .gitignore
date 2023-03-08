@@ -1,0 +1,4 @@
+__pycache__/
+aclImdb/
+aclImdb_v1.tar.gz
+*.csv
